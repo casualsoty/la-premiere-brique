@@ -5,8 +5,8 @@
       "destination": "https://www.seloger.com/prix-de-l-immo/vente/:path*"
     },
     {
-      "source": "/meilleursagents/:path*",
-      "destination": "https://www.meilleursagents.com/prix-immobilier/:path*"
+      "source": "/meilleursagents/:path*/",
+      "destination": "https://www.meilleursagents.com/prix-immobilier/:path*/"
     }
   ]
 }
